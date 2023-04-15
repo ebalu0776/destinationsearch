@@ -1,0 +1,13 @@
+.temple-details {
+  width: 200px;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin: auto;
+}
